@@ -56,8 +56,8 @@ button:hover {
 fieldset {
     margin-top: 2%;
     height: 380px;
-    width: 300px;
-    border-radius: 10px;
+    width: 290px;
+    border-radius: 5px;
     align-items: center;
     justify-content: center;
     
