@@ -9,7 +9,7 @@ form {
     height: 20%;
     margin-bottom: 6%;
     border-radius: 5%;
-    width: 350px;
+    width: 390px;
     padding-left: 20px;
     margin-bottom: 10%;
     margin-left: 30%;
@@ -56,10 +56,11 @@ button:hover {
 fieldset {
     margin-top: 2%;
     height: 380px;
-    width: 290px;
+    width: 300px;
     border-radius: 1px;
     align-items: center;
     justify-content: center;
+    
     
 }
 
