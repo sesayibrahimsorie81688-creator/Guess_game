@@ -43,7 +43,7 @@ document.getElementById(`btn`).onclick = function() {
 
     } else {
 
-        won.textContent = `You lost try again!!`;
+        won.textContent = `You lost !!`;
         won.style.color = "red";
 
     }
