@@ -48,14 +48,12 @@ button:hover {
 }
 
 fieldset {
-    margin-top: 2%;
-    height: 380px;
-    width: 230px;
-    border-radius: 20px;
-    align-items: center;
-    margin-left:0%;
-    
-    
+width: 100%;
+max-width: 400px; /* don't let it get too wide */
+padding: 20px;
+border: 2px solid #ccc;
+border-radius: 8px;
+box-sizing: border-box;
 }
 
 .h31 {
