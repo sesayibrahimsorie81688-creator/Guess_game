@@ -1,13 +1,11 @@
 body {
-  display: flex;              /* turn body into flex container */
-  justify-content: center;    /* center horizontally */
-  align-items: center;        /* center vertically */
-  min-height: 100vh;          /* make body full screen height */
-  margin: 0;                  /* remove default body margin */
-  background: #f0f0f0;
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 100vh;
+margin: 0;
+background: #222;
 }
-
-
 
 .l1 {}
 
