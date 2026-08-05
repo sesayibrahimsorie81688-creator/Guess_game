@@ -4,7 +4,7 @@ justify-content: center;
 align-items: center;
 min-height: 100vh;
 margin: 0;
-background: #222;
+background: lightgreen;
 }
 
 .l1 {}
@@ -46,8 +46,8 @@ button:hover {
 }
 
 fieldset {
-width: 100%;
-max-width: 400px; /* don't let it get too wide */
+
+max-width: 100%; /* don't let it get too wide */
 padding: 20px;
 border: 2px solid #ccc;
 border-radius: 8px;
