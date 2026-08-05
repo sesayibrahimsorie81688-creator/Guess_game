@@ -2,9 +2,9 @@ body {
 display: flex;
 justify-content: center;
 align-items: center;
-min-height: 100vh;
-margin: 0;
-background: lightgreen;
+max-hight: 400px;
+
+background: red;
 }
 
 .l1 {}
