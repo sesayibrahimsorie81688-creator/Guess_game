@@ -47,7 +47,7 @@ button:hover {
 
 fieldset {
 
-max-width: 100%; /* don't let it get too wide */
+max-width: 400px; /* don't let it get too wide */
 padding: 20px;
 border: 2px solid #ccc;
 border-radius: 8px;
