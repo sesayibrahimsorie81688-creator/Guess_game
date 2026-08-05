@@ -51,17 +51,16 @@ max-width: 400px; /* don't let it get too wide */
 padding: 20px;
 border: 2px solid #ccc;
 border-radius: 8px;
-box-sizing: border-box;
 
     
     
 }
 
 .h31 {
-    margin-top: 0%;
+    margin-top: 2%;
     text-align: center;
     text-shadow: 1px 2px 3px;
-    display: block;
+
     color: rgb(91, 143, 185);
     
 }
