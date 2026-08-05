@@ -60,5 +60,5 @@ box-sizing: border-box;
     text-shadow: 1px 2px 3px;
     display: block;
     color: rgb(91, 143, 185);
-    margin-left:0%;
+    max-width:100%;
 }
